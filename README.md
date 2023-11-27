@@ -1,4 +1,4 @@
-  **  Mathematics of Sea Ice and Ice Sheets** Proceedings-2023
+    Mathematics of Sea Ice and Ice Sheets Proceedings-2023
 ======================================================
 
 Abstract Book
@@ -6,16 +6,16 @@ Abstract Book
 Edited by:  
 Susam Boral (HEU, China) and Michael H. Meylan (UoN, Australia)
 
-**Workshop date**: November 29 - 30, 2023
+Workshop date: November 29 - 30, 2023
 
-**Venue**: Online via ZOOM
+Venue: Online via ZOOM
 
 Table of Contents
 -----------------
 
 [Programme schedule](#schedule)
 
-### Accepted abstracts
+Accepted abstracts
 
 [Attenuation of long waves through regions of irregular floating ice](#abs:1)  
 **Richard Porter** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -93,7 +93,8 @@ Afternoon
 
 _Chair_: **Michael Meylan**
 
-12:00 – 12:30 
+12:00 – 12:30
+
 Where the MIZ really is”: Radar altimetry reveals the extent of the wave-affected Antarctic marginal ice zone
 
 Alexander D. Fraser
